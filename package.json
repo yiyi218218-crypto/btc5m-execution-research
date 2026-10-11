@@ -1,0 +1,13 @@
+{
+  "name": "btc5m-execution-research",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Read-only Polymarket BTC 5-minute order-book replay and execution economics research snapshot",
+  "scripts": {
+    "test": "node --test tests/unit/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
